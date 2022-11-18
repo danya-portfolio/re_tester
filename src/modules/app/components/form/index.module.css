@@ -1,0 +1,28 @@
+.form > div,
+.form > p{
+    margin:  20px 0;
+
+}
+.form h3{
+    margin: 10px 0;
+}
+
+
+input,
+textarea,
+select
+{
+    font-size: 1rem;
+    padding: 5px 10px;
+    outline: none;
+    border-radius: unset;
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 5px;
+    border-color: rgb(172, 172, 172);
+}
+textarea{
+    width: 90%;
+    max-width: 700px;
+    min-height: 10rem;
+}
